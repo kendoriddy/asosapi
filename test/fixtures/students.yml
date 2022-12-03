@@ -2,12 +2,8 @@
 
 one:
   name: MyString
-  dob: MyString
-  age: 1
-  gender: MyString
+  dob: 2022-11-28
 
 two:
   name: MyString
-  dob: MyString
-  age: 1
-  gender: MyString
+  dob: 2022-11-28
